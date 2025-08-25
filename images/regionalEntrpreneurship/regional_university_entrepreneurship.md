@@ -17,4 +17,4 @@ A wide-angle, cinematic landscape scene depicting a modern regional university c
 ---
 
 ## Image
-![Regional University Innovation Landscape](regional_university_entrepreneurship.png)
+![Regional University Innovation Landscape](./regional_university_entrepreneurship.png)
