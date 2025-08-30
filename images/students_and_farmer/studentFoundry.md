@@ -39,7 +39,7 @@ The scene is a collaborative workshop inside a modern open-air farm shed in the 
 ---
 
 ## Generated Image
-![Generated Image](./foundry_in_action.png)
+![Generated Image](./studentFoundry.png)
 
 ---
 
