@@ -1,0 +1,22 @@
+I'd like you to generate an image. 1. The Core Scene: "The Future of Regional Care"
+The scene is the comfortable, light-filled living room of an older Australian's home in a regional town. Through a window in the background, we see a classic Australian landscape (e.g., rolling hills, gum trees), conveying a strong sense of place. The atmosphere is warm, respectful, and optimistic.
+
+2. The Characters: The "Triple-Threat" Care Team
+The image is centered on a small group, actively collaborating to solve a real-world health challenge.
+
+The Client (The Problem Owner): An older woman in her early 80s, sitting comfortably in an armchair. She is engaged and participating in a gentle assessment, looking not frail, but empowered. She represents the "lived knowledge" and the authentic community need.
+The On-the-Ground Practitioner (The Hands): A capable and empathetic younger person in their 20s (representing a TAFE Allied Health Assistant or a junior health worker). They are wearing a pair of sleek, modern smart glasses and are conducting a gentle range-of-motion assessment on the older woman's arm.
+The Remote University Expert (The Brains): Visible as a professional, semi-transparent holographic video call next to the practitioner. This is a senior, experienced Occupational Therapist (the "university expert") in their 40s, providing real-time guidance and expertise from a distance. They are the "learned knowledge."
+The University Student (The Future Workforce): A bright, final-year UNE Health Sciences student is present, holding a tablet and carefully observing and recording data. They are not leading, but are an integral part of the team, representing the next generation of the regional health workforce.
+3. The "Innovation" Element: Technology with a Human Touch
+The technology is a seamless enabler of better care, not the cold focus of the scene.
+
+The Interface: The primary technology is the smart glasses. A subtle, elegant holographic overlay is visible from the viewer's perspective, showing what the remote expert sees. This interface displays clean, minimalist data visualizations—like range-of-motion angles, biometric data, or a clinical checklist.
+The Connection: Thin, glowing lines of light connect the physical assessment (the practitioner's hands on the client's arm) to the data on the holographic overlay, visually representing the fusion of hands-on care with data-driven, remote expertise.
+4. Artistic Style & Technical Details:
+
+Style: Photorealistic concept art, cinematic, with a clean and professional aesthetic. The image should feel warm and human, like a high-end visualization for a national health strategy report.
+Lighting: Soft, natural light streaming through the window, creating a feeling of warmth, comfort, and optimism.
+Color Palette: A warm, natural palette for the home and the people (creams, soft woods, gentle blues), contrasted with the clean, bright, and non-intrusive cyan and white of the technological interface.
+Composition: Landscape orientation (16:9). The absolute focus is the gentle, respectful human interaction between the practitioner and the older woman. The technology is a supporting element, not the hero.
+Keywords: regional healthcare, aged care, telehealth, university-industry collaboration, empathy, dignity, innovation, health-tech, students, mentorship, occupational therapy, Australia, problem-solving.
